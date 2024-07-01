@@ -1,6 +1,6 @@
 {
   "name": "@shahzadakbar369/atm",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
@@ -15,6 +15,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@shahzadakbar369/atm": "^2.0.0",
     "inquirer": "^9.3.1"
   },
   "devDependencies": {
